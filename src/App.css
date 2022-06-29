@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.yun{
+  margin-left: 35%;
+  margin-top: 10%;
+  height:200px;
+  width:30%;
+  border-style: solid;
+  text-align:center;
+  justify-content: center;
+  border-radius:20px;
+  border-color: black;
+}
+
+.lu{
+  border-style: solid;
+  border-radius:20px;
+  border-color: black;
+}
